@@ -66,7 +66,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -107,12 +107,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 28
+        y: 310
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -128,12 +128,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_1
       rect:
         serializedVersion: 2
-        x: 96
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 125
+        y: 310
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -149,12 +149,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_2
       rect:
         serializedVersion: 2
-        x: 192
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 220
+        y: 310
+        width: 36
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -170,12 +170,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_3
       rect:
         serializedVersion: 2
-        x: 288
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 316
+        y: 310
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -191,12 +191,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_4
       rect:
         serializedVersion: 2
-        x: 384
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 417
+        y: 310
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -212,12 +212,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_5
       rect:
         serializedVersion: 2
-        x: 480
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 512
+        y: 310
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -233,12 +233,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_6
       rect:
         serializedVersion: 2
-        x: 576
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 609
+        y: 310
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -254,12 +254,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_7
       rect:
         serializedVersion: 2
-        x: 672
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 703
+        y: 310
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -275,12 +275,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_8
       rect:
         serializedVersion: 2
-        x: 768
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 802
+        y: 310
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -296,12 +296,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_9
       rect:
         serializedVersion: 2
-        x: 864
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 899
+        y: 310
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -317,12 +317,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_10
       rect:
         serializedVersion: 2
-        x: 960
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 994
+        y: 310
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -338,12 +338,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_11
       rect:
         serializedVersion: 2
-        x: 1056
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1088
+        y: 310
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -359,12 +359,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_12
       rect:
         serializedVersion: 2
-        x: 1152
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1181
+        y: 310
+        width: 47
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -380,12 +380,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_13
       rect:
         serializedVersion: 2
-        x: 1248
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1282
+        y: 310
+        width: 40
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -401,12 +401,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_14
       rect:
         serializedVersion: 2
-        x: 1344
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1375
+        y: 310
+        width: 40
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -422,12 +422,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_15
       rect:
         serializedVersion: 2
-        x: 1440
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1471
+        y: 310
+        width: 49
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -443,12 +443,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_16
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1566
+        y: 310
+        width: 49
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -464,12 +464,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_17
       rect:
         serializedVersion: 2
-        x: 1632
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1661
+        y: 310
+        width: 46
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -485,12 +485,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_18
       rect:
         serializedVersion: 2
-        x: 1728
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1758
+        y: 310
+        width: 42
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -506,12 +506,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_19
       rect:
         serializedVersion: 2
-        x: 1824
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1858
+        y: 310
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -527,12 +527,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_20
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1951
+        y: 310
+        width: 40
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -548,12 +548,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_21
       rect:
         serializedVersion: 2
-        x: 2016
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2046
+        y: 310
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -569,12 +569,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_22
       rect:
         serializedVersion: 2
-        x: 2112
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2141
+        y: 310
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -590,12 +590,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_23
       rect:
         serializedVersion: 2
-        x: 2208
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2235
+        y: 310
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -611,12 +611,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_24
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2338
+        y: 310
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -632,12 +632,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_25
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2431
+        y: 316
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -653,12 +653,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_26
       rect:
         serializedVersion: 2
-        x: 2496
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2534
+        y: 310
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -674,12 +674,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_27
       rect:
         serializedVersion: 2
-        x: 2592
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2622
+        y: 310
+        width: 39
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -695,12 +695,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_28
       rect:
         serializedVersion: 2
-        x: 2688
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2717
+        y: 316
+        width: 40
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -716,12 +716,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_29
       rect:
         serializedVersion: 2
-        x: 2784
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2822
+        y: 310
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -737,12 +737,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_30
       rect:
         serializedVersion: 2
-        x: 2880
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2909
+        y: 312
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -758,12 +758,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_31
       rect:
         serializedVersion: 2
-        x: 2976
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3005
+        y: 312
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -779,12 +779,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_32
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3102
+        y: 314
+        width: 36
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -800,12 +800,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_33
       rect:
         serializedVersion: 2
-        x: 3168
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3197
+        y: 316
+        width: 38
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -821,12 +821,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_34
       rect:
         serializedVersion: 2
-        x: 3264
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3294
+        y: 312
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -842,12 +842,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_35
       rect:
         serializedVersion: 2
-        x: 3360
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3390
+        y: 312
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -863,12 +863,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_36
       rect:
         serializedVersion: 2
-        x: 3456
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3483
+        y: 310
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -884,12 +884,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_37
       rect:
         serializedVersion: 2
-        x: 3552
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3580
+        y: 310
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -905,12 +905,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_38
       rect:
         serializedVersion: 2
-        x: 3648
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3677
+        y: 310
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -926,12 +926,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_39
       rect:
         serializedVersion: 2
-        x: 3744
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3777
+        y: 310
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -947,12 +947,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_40
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3872
+        y: 308
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -968,12 +968,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_41
       rect:
         serializedVersion: 2
-        x: 3936
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3967
+        y: 308
+        width: 48
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -989,12 +989,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_42
       rect:
         serializedVersion: 2
-        x: 4032
-        y: 288
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4061
+        y: 308
+        width: 49
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1010,12 +1010,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_43
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 127
+        y: 290
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1031,12 +1031,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_44
       rect:
         serializedVersion: 2
-        x: 96
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 28
+        y: 213
+        width: 49
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1052,12 +1052,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_45
       rect:
         serializedVersion: 2
-        x: 192
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 127
+        y: 213
+        width: 42
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1073,12 +1073,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_46
       rect:
         serializedVersion: 2
-        x: 288
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 226
+        y: 213
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1094,12 +1094,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_47
       rect:
         serializedVersion: 2
-        x: 384
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 318
+        y: 213
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1115,12 +1115,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_48
       rect:
         serializedVersion: 2
-        x: 480
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 413
+        y: 213
+        width: 45
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1136,12 +1136,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_49
       rect:
         serializedVersion: 2
-        x: 576
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 508
+        y: 213
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1157,12 +1157,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_50
       rect:
         serializedVersion: 2
-        x: 672
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 603
+        y: 215
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1178,12 +1178,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_51
       rect:
         serializedVersion: 2
-        x: 768
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 701
+        y: 217
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1199,12 +1199,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_52
       rect:
         serializedVersion: 2
-        x: 864
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 798
+        y: 217
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1220,12 +1220,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_53
       rect:
         serializedVersion: 2
-        x: 960
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 899
+        y: 215
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1241,12 +1241,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_54
       rect:
         serializedVersion: 2
-        x: 1056
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 994
+        y: 215
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1262,12 +1262,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_55
       rect:
         serializedVersion: 2
-        x: 1152
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1090
+        y: 215
+        width: 39
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1283,12 +1283,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_56
       rect:
         serializedVersion: 2
-        x: 1248
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1189
+        y: 215
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1304,12 +1304,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_57
       rect:
         serializedVersion: 2
-        x: 1344
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1282
+        y: 215
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1325,12 +1325,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_58
       rect:
         serializedVersion: 2
-        x: 1440
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1375
+        y: 215
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1346,12 +1346,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_59
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1471
+        y: 215
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1367,12 +1367,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_60
       rect:
         serializedVersion: 2
-        x: 1632
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1568
+        y: 215
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1388,12 +1388,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_61
       rect:
         serializedVersion: 2
-        x: 1728
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1661
+        y: 215
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1409,12 +1409,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_62
       rect:
         serializedVersion: 2
-        x: 1824
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1758
+        y: 215
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1430,12 +1430,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_63
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1854
+        y: 215
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1451,12 +1451,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_64
       rect:
         serializedVersion: 2
-        x: 2016
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1957
+        y: 215
+        width: 28
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1472,12 +1472,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_65
       rect:
         serializedVersion: 2
-        x: 2112
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2048
+        y: 215
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1493,12 +1493,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_66
       rect:
         serializedVersion: 2
-        x: 2208
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2141
+        y: 215
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1514,12 +1514,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_67
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2237
+        y: 215
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1535,12 +1535,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_68
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2334
+        y: 215
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1556,12 +1556,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_69
       rect:
         serializedVersion: 2
-        x: 2496
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2429
+        y: 215
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1577,12 +1577,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_70
       rect:
         serializedVersion: 2
-        x: 2592
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2526
+        y: 215
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1598,12 +1598,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_71
       rect:
         serializedVersion: 2
-        x: 2688
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2622
+        y: 215
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1619,12 +1619,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_72
       rect:
         serializedVersion: 2
-        x: 2784
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2717
+        y: 215
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1640,12 +1640,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_73
       rect:
         serializedVersion: 2
-        x: 2880
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2814
+        y: 215
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1661,12 +1661,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_74
       rect:
         serializedVersion: 2
-        x: 2976
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2909
+        y: 215
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1682,12 +1682,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_75
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3005
+        y: 215
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1703,12 +1703,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_76
       rect:
         serializedVersion: 2
-        x: 3168
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3102
+        y: 215
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1724,12 +1724,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_77
       rect:
         serializedVersion: 2
-        x: 3264
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3197
+        y: 215
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1745,12 +1745,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_78
       rect:
         serializedVersion: 2
-        x: 3360
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3294
+        y: 215
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1766,12 +1766,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_79
       rect:
         serializedVersion: 2
-        x: 3456
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3390
+        y: 215
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1787,12 +1787,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_80
       rect:
         serializedVersion: 2
-        x: 3552
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3483
+        y: 217
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1808,12 +1808,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_81
       rect:
         serializedVersion: 2
-        x: 3648
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3578
+        y: 217
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1829,12 +1829,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_82
       rect:
         serializedVersion: 2
-        x: 3744
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3674
+        y: 217
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1850,12 +1850,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_83
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3771
+        y: 219
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1871,12 +1871,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_84
       rect:
         serializedVersion: 2
-        x: 3936
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3866
+        y: 217
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1892,12 +1892,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_85
       rect:
         serializedVersion: 2
-        x: 4032
-        y: 192
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3963
+        y: 217
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1913,12 +1913,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_86
       rect:
         serializedVersion: 2
-        x: 0
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4061
+        y: 215
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1934,12 +1934,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_87
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 30
+        y: 119
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1955,12 +1955,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_88
       rect:
         serializedVersion: 2
-        x: 192
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 127
+        y: 119
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1976,12 +1976,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_89
       rect:
         serializedVersion: 2
-        x: 288
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 222
+        y: 123
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1997,12 +1997,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_90
       rect:
         serializedVersion: 2
-        x: 384
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 318
+        y: 119
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2018,12 +2018,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_91
       rect:
         serializedVersion: 2
-        x: 480
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 415
+        y: 119
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2039,12 +2039,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_92
       rect:
         serializedVersion: 2
-        x: 576
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 510
+        y: 125
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2060,12 +2060,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_93
       rect:
         serializedVersion: 2
-        x: 672
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 607
+        y: 119
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2081,12 +2081,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_94
       rect:
         serializedVersion: 2
-        x: 768
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 703
+        y: 121
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2102,12 +2102,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_95
       rect:
         serializedVersion: 2
-        x: 864
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 792
+        y: 125
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2123,12 +2123,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_96
       rect:
         serializedVersion: 2
-        x: 960
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 883
+        y: 115
+        width: 48
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2144,12 +2144,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_97
       rect:
         serializedVersion: 2
-        x: 1056
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 978
+        y: 113
+        width: 48
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2165,12 +2165,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_98
       rect:
         serializedVersion: 2
-        x: 1152
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1074
+        y: 115
+        width: 47
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2186,12 +2186,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_99
       rect:
         serializedVersion: 2
-        x: 1248
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1183
+        y: 119
+        width: 34
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2207,12 +2207,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_100
       rect:
         serializedVersion: 2
-        x: 1344
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 119
+        width: 34
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2228,12 +2228,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_101
       rect:
         serializedVersion: 2
-        x: 1440
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1375
+        y: 129
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2249,12 +2249,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_102
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1471
+        y: 127
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2270,12 +2270,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_103
       rect:
         serializedVersion: 2
-        x: 1632
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1568
+        y: 123
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2291,12 +2291,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_104
       rect:
         serializedVersion: 2
-        x: 1728
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1663
+        y: 119
+        width: 34
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2312,12 +2312,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_105
       rect:
         serializedVersion: 2
-        x: 1824
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1760
+        y: 119
+        width: 34
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2333,12 +2333,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_106
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1856
+        y: 119
+        width: 35
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2354,12 +2354,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_107
       rect:
         serializedVersion: 2
-        x: 2016
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1947
+        y: 119
+        width: 46
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2375,12 +2375,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_108
       rect:
         serializedVersion: 2
-        x: 2112
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2042
+        y: 119
+        width: 46
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2396,12 +2396,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_109
       rect:
         serializedVersion: 2
-        x: 2208
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2139
+        y: 119
+        width: 46
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2417,12 +2417,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_110
       rect:
         serializedVersion: 2
-        x: 2304
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2235
+        y: 119
+        width: 45
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2438,12 +2438,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_111
       rect:
         serializedVersion: 2
-        x: 2400
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2330
+        y: 119
+        width: 44
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2459,12 +2459,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_112
       rect:
         serializedVersion: 2
-        x: 2496
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2427
+        y: 119
+        width: 44
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2480,12 +2480,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_113
       rect:
         serializedVersion: 2
-        x: 2592
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2522
+        y: 119
+        width: 46
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2501,12 +2501,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_114
       rect:
         serializedVersion: 2
-        x: 2688
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2618
+        y: 119
+        width: 45
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2522,12 +2522,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_115
       rect:
         serializedVersion: 2
-        x: 2784
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2715
+        y: 119
+        width: 44
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2543,12 +2543,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_116
       rect:
         serializedVersion: 2
-        x: 2880
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2810
+        y: 119
+        width: 46
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2564,12 +2564,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_117
       rect:
         serializedVersion: 2
-        x: 2976
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2907
+        y: 119
+        width: 38
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2585,12 +2585,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_118
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3005
+        y: 119
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2606,12 +2606,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_119
       rect:
         serializedVersion: 2
-        x: 3168
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3106
+        y: 119
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2627,12 +2627,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_120
       rect:
         serializedVersion: 2
-        x: 3264
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3201
+        y: 119
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2648,12 +2648,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_121
       rect:
         serializedVersion: 2
-        x: 3360
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3300
+        y: 119
+        width: 30
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2669,12 +2669,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_122
       rect:
         serializedVersion: 2
-        x: 3456
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3394
+        y: 119
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2690,12 +2690,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_123
       rect:
         serializedVersion: 2
-        x: 3552
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3489
+        y: 119
+        width: 30
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2711,12 +2711,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_124
       rect:
         serializedVersion: 2
-        x: 3648
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3586
+        y: 117
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2732,12 +2732,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_125
       rect:
         serializedVersion: 2
-        x: 3744
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3683
+        y: 119
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2753,12 +2753,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_126
       rect:
         serializedVersion: 2
-        x: 3840
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3781
+        y: 119
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2774,12 +2774,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_127
       rect:
         serializedVersion: 2
-        x: 3936
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3874
+        y: 119
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2795,12 +2795,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_128
       rect:
         serializedVersion: 2
-        x: 4032
-        y: 96
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3965
+        y: 119
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2816,12 +2816,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_129
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4061
+        y: 119
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2837,12 +2837,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_130
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 30
+        y: 22
+        width: 45
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2858,12 +2858,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_131
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 125
+        y: 22
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2879,12 +2879,12 @@ TextureImporter:
       name: 63_Assets_STINKUBUS_1_132
       rect:
         serializedVersion: 2
-        x: 288
-        y: 0
-        width: 96
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 214
+        y: 28
+        width: 56
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2892,6 +2892,27 @@ TextureImporter:
       bones: []
       spriteID: 6af14ca896054284684fe41b26f27274
       internalID: -16138917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 63_Assets_STINKUBUS_1_133
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 28
+        width: 55
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8c1e1f71a6246489f92d99620d9fc5
+      internalID: 57473478
       vertices: []
       indices: 
       edges: []
@@ -2921,6 +2942,7 @@ TextureImporter:
       63_Assets_STINKUBUS_1_93: 728516383
       63_Assets_STINKUBUS_1_21: -955196969
       63_Assets_STINKUBUS_1_79: 2120827852
+      63_Assets_STINKUBUS_1_133: 57473478
       63_Assets_STINKUBUS_1_33: 398969928
       63_Assets_STINKUBUS_1_117: -1336650507
       63_Assets_STINKUBUS_1_101: -1076972366
@@ -2967,6 +2989,7 @@ TextureImporter:
       63_Assets_STINKUBUS_1_50: 876585000
       63_Assets_STINKUBUS_1_17: -1554988493
       63_Assets_STINKUBUS_1_38: -596108045
+      63_Assets_STINKUBUS_1_100: -1339401738
       63_Assets_STINKUBUS_1_62: 311618091
       63_Assets_STINKUBUS_1_94: 1336247242
       63_Assets_STINKUBUS_1_31: -1769633457
@@ -2974,7 +2997,6 @@ TextureImporter:
       63_Assets_STINKUBUS_1_47: -351524001
       63_Assets_STINKUBUS_1_98: -1964477128
       63_Assets_STINKUBUS_1_45: -396611633
-      63_Assets_STINKUBUS_1_100: -1339401738
       63_Assets_STINKUBUS_1_35: -1075080968
       63_Assets_STINKUBUS_1_102: -897858492
       63_Assets_STINKUBUS_1_108: -1418057650
@@ -2985,11 +3007,11 @@ TextureImporter:
       63_Assets_STINKUBUS_1_113: -951253256
       63_Assets_STINKUBUS_1_60: 1897765866
       63_Assets_STINKUBUS_1_30: 199199826
-      63_Assets_STINKUBUS_1_56: 561229661
-      63_Assets_STINKUBUS_1_86: 809264001
       63_Assets_STINKUBUS_1_90: 1350647722
+      63_Assets_STINKUBUS_1_56: 561229661
       63_Assets_STINKUBUS_1_39: -1126483214
       63_Assets_STINKUBUS_1_10: -1181303470
+      63_Assets_STINKUBUS_1_86: 809264001
       63_Assets_STINKUBUS_1_110: -1963159267
       63_Assets_STINKUBUS_1_24: 492575620
       63_Assets_STINKUBUS_1_54: -998848331
