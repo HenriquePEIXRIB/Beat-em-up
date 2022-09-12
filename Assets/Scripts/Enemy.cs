@@ -20,14 +20,16 @@ public class Enemy : Person
             item.SetActive(true);
         }*/
         GameObject.Destroy(gameObject);
-
-        
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         bool isWalk = (collision.attachedRigidbody.position.x - gameObject.transform.position.x) > _detectionDistance;
         _animator.SetBool("IsWalk", isWalk);
+        if (isWalk)
+        {
+            _direction = new Vector2(1, 0);
+        }
         if (isWalk == false && Time.time >= _detectionTime)
         {
             _animator.SetBool("IsAttack", true);

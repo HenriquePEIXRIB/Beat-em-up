@@ -8,35 +8,34 @@ using UnityEngine.InputSystem;
 using UnityEngine.UIElements;
 using UnityEngine.Windows;
 
-public class Person : MonoBehaviour
+public abstract class Person : MonoBehaviour
 {
-    [Header("Health")]
+    [Header("Rigibody")]
+    [SerializeField] public Rigidbody2D _rb;
+
+    [Header("Life")]
     [SerializeField] public float _lifeMax;
     [SerializeField] public float _lifeDeath;
+    [HideInInspector] public float _life;
 
-    [Header("Walk")]
-    [SerializeField] public InputActionReference _walk;
+    [Header("Movement")]
+    [HideInInspector] public Vector3 _direction;
+
+    [Header("Speed")]
     [SerializeField] public float _speedWalk;
-
-    [Header("Attack")]
-    [SerializeField] public InputActionReference _attack;
+    [SerializeField] public float _speedRun;
 
     [Header("Animator")]
     [SerializeField] public Animator _animator;
 
-    float _life;
-
     private void Start()
     {
         _life = _lifeMax;
+    }
 
-        _walk.action.started += WalkStarted;
-        _walk.action.performed += WalkPerformed;
-        _walk.action.canceled += WalkCanceled;
-
-        _attack.action.started += AttackStarted;
-        _attack.action.performed += AttackPerformed;
-        _attack.action.canceled += AttackCanceled;
+    private void FixedUpdate()
+    {
+        _rb.MovePosition(transform.position + _direction * _speedWalk);
     }
 
     public virtual void OnCollisionEnter2D(Collision2D collision)
@@ -46,36 +45,5 @@ public class Person : MonoBehaviour
         {
             _animator.SetBool("IsDeath", true);
         }
-
-    }
-
-    private void WalkStarted(InputAction.CallbackContext obj)
-    {
-        throw new System.NotImplementedException();
-    }
-
-    private void WalkPerformed(InputAction.CallbackContext obj)
-    {
-        throw new System.NotImplementedException();
-    }
-
-    private void WalkCanceled(InputAction.CallbackContext obj)
-    {
-        throw new System.NotImplementedException();
-    }
-
-    private void AttackStarted(InputAction.CallbackContext obj)
-    {
-        throw new System.NotImplementedException();
-    }
-
-    private void AttackPerformed(InputAction.CallbackContext obj)
-    {
-        throw new System.NotImplementedException();
-    }
-
-    private void AttackCanceled(InputAction.CallbackContext obj)
-    {
-        throw new System.NotImplementedException();
     }
 }
