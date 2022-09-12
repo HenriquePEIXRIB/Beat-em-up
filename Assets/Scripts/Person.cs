@@ -11,22 +11,30 @@ using UnityEngine.Windows;
 public abstract class Person : MonoBehaviour
 {
     [Header("Rigibody")]
-    [SerializeField] public Rigidbody2D _rb;
+    [SerializeField] protected Rigidbody2D _rb;
 
     [Header("Life")]
-    [SerializeField] public float _lifeMax;
-    [SerializeField] public float _lifeDeath;
-    [HideInInspector] public float _life;
+    [SerializeField] protected float _lifeMax;
+    [SerializeField] protected float _lifeDeath;
+    [HideInInspector] protected float _life;
 
     [Header("Movement")]
-    [HideInInspector] public Vector3 _direction;
+    [HideInInspector] protected Vector3 _direction;
 
     [Header("Speed")]
-    [SerializeField] public float _speedWalk;
-    [SerializeField] public float _speedRun;
+    [SerializeField] protected float _speedWalk;
+    [SerializeField] protected float _speedRun;
 
     [Header("Animator")]
-    [SerializeField] public Animator _animator;
+    [SerializeField] protected Animator _animator;
+
+    public float Life
+    {
+        get
+        {
+            return _life;
+        }
+    }
 
     private void Start()
     {
@@ -35,7 +43,23 @@ public abstract class Person : MonoBehaviour
 
     private void FixedUpdate()
     {
-        _rb.MovePosition(transform.position + _direction * _speedWalk);
+        float moveSpeed = _speedWalk;
+        
+
+        if (_animator.GetBool("IsRun"))
+        {
+            moveSpeed *= _speedRun;
+        }
+        else
+        {
+            moveSpeed *= 1f;
+        }
+
+        //moveSpeed *= (_animator.GetBool("IsRun")) ? _speedRun : 1f;
+
+
+        _animator.SetBool("IsWalk", _direction.magnitude > 0.1f);
+        _rb.MovePosition(transform.position + (_direction * Time.fixedDeltaTime * moveSpeed));
     }
 
     public virtual void OnCollisionEnter2D(Collision2D collision)

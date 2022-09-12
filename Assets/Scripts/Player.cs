@@ -8,7 +8,7 @@ using UnityEngine.UI;
 public class Player : Person
 {
     [Header("Health")]
-    [SerializeField] Slider _slider;
+    //[SerializeField] Slider _slider;
 
     /*[Header("Score")]
      * 
@@ -30,7 +30,7 @@ public class Player : Person
 
     private void Start()
     {
-        _slider.value = _slider.maxValue = _lifeMax;
+       // _slider.value = _slider.maxValue = _lifeMax;
 
         _walk.action.started += WalkStarted;
         _walk.action.performed += WalkPerformed;
@@ -53,7 +53,7 @@ public class Player : Person
     {
         _oldLifeDeath = _lifeDeath;
         base.OnCollisionEnter2D(collision);
-        _slider.value = _life;
+       // _slider.value = _life;
         while (Time.time < _protectionTime)
         {
             _lifeDeath = 0;
@@ -84,6 +84,7 @@ public class Player : Person
     private void RunPerformed(InputAction.CallbackContext obj)
     {
         _animator.SetBool("IsRun", true);
+        _animator.GetBool("IsRun");
     }
 
     private void RunCanceled(InputAction.CallbackContext obj)

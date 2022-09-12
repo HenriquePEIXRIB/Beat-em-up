@@ -3,7 +3,13 @@ guid: 86f0fd4b39435cf4daba2fe565109c1f
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - _rb: {instanceID: 0}
+  - _animator: {instanceID: 0}
+  - _walk: {fileID: 3516318662934011731, guid: 3278c9919f79e3e40b038da33cecdc0b, type: 3}
+  - _run: {instanceID: 0}
+  - _jump: {instanceID: 0}
+  - _attack: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
