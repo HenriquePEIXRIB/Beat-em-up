@@ -50,10 +50,6 @@ public abstract class Person : MonoBehaviour
         {
             moveSpeed *= _speedRun;
         }
-        else
-        {
-            moveSpeed *= 1f;
-        }
 
         //moveSpeed *= (_animator.GetBool("IsRun")) ? _speedRun : 1f;
 
