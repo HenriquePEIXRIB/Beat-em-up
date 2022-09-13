@@ -40,9 +40,10 @@ public class Player : Person
         _run.action.performed += RunPerformed;
         _run.action.canceled += RunCanceled;
 
-        _jump.action.started += JumpStarted;
-        _jump.action.performed += JumpPerformed;
-        _jump.action.canceled += JumpCanceled;
+        //_jump.action.started += JumpStarted;
+
+        //_jump.action.performed += JumpPerformed;
+        //_jump.action.canceled += JumpCanceled;
 
         _attack.action.started += AttackStarted;
         _attack.action.performed += AttackPerformed;

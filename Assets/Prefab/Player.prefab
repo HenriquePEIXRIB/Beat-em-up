@@ -527,7 +527,7 @@ MonoBehaviour:
   _animator: {fileID: 8801564693769925672}
   _walk: {fileID: 3516318662934011731, guid: 3278c9919f79e3e40b038da33cecdc0b, type: 3}
   _run: {fileID: 905001231160873205, guid: 3278c9919f79e3e40b038da33cecdc0b, type: 3}
-  _jump: {fileID: -4462043008522515783, guid: 3278c9919f79e3e40b038da33cecdc0b, type: 3}
+  _jump: {fileID: 0}
   _attack: {fileID: 4900912116241632706, guid: 3278c9919f79e3e40b038da33cecdc0b, type: 3}
   _jumpTime: 5
   _jumpHeight: {x: 0, y: 5, z: 0}
